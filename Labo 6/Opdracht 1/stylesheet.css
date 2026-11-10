@@ -1,0 +1,7 @@
+.Menubalk li{
+    display:inline-block;
+    width:150px;
+}
+.Menubalk li> a {
+    color:red;
+}
