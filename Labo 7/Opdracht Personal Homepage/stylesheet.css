@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 25px;
+    margin: auto;
+}
+header{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    background-color: dodgerblue;
+    color: white;
+    padding: 20px;
+}
+h3{
+    background-color: deepskyblue;
+    color: white;
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+a{
+    text-decoration: underline;
+    color: green;
+}
+table{
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+th{
+    background-color: green;
+    color: white;
+}
+td, th{
+    text-align: center;
+    padding: 10px;
+}
+
