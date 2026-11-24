@@ -1,0 +1,15 @@
+section {
+    display: block;
+    float: left;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: calc(50% - 10px);
+    height: 280px;
+    padding: 10px;
+}
+section:nth-child(odd){
+    margin: 0 10px 0 0;
+}
+section:nth-child(even){
+    margin: 0 0 0 10px;
+}
